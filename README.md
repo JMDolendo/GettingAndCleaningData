@@ -13,7 +13,7 @@
 - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-### Generally, the script, "run_analysis.R", collects, works with cleans and prepares tidy data set which can be used in later analysis. Following are the detailed methods on how the script works:
+### Generally, the script, "run_analysis.R", collects, works with, cleans and prepares tidy data set which can be used in later analysis. Following are the detailed methods on how the script works:
 
 	a. Download, extract and read the messy dataset.
 	b. Merge the training and test data.
