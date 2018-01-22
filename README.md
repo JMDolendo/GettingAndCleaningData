@@ -3,7 +3,7 @@
 ## This repository contains the following files:
 		a. README.md  - which explains how the script works.
 		b. run_analysis.R - the R script used to create a dataset.
-		c. tidydata - which contains the tidy data set. 
+		c. tidydata - which contains the output tidy data set. 
 		d  Codebook.md - which describes the contents of the data set.
 
 ### The data set used in this project is the "Human activity Recognition Using Smartphones Dataset" which is available here:
